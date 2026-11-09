@@ -4,7 +4,7 @@ IE 6600 Computation and Visualization (Northeastern University) — Project 1
 
 The project uses the WFH Research time series for the United States to show how work-from-home (WFH) changed before, during and after COVID-19: the overall WFH share, the split between full onsite, hybrid and fully remote work, differences between cities and industries, and the gap between the WFH days workers want and the days they get.
 
-**Members:** Yi-Fan Liu
+**Author:** Yi-Fan Liu
 
 ## Findings
 
